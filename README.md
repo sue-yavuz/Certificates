@@ -20,7 +20,7 @@
 
 - [x] [Data Analytics](https://d34lllqo5jm5il.cloudfront.net/en/verify/83467088731646?ref=email)
 
-## $\textcolor{orange}{\text{Machine Learning Modules & Deep Learning Modules}}$
+## $\textcolor{orange}{\text{Machine Learning Modules and Deep Learning Modules}}$
 
 - [x] [Machine Learning Certificate](https://d34lllqo5jm5il.cloudfront.net/en/verify/47280676904989?ref=email)
 
