@@ -3,7 +3,7 @@
 # $\textcolor{orange}{\text{Data Analysis Modules }}$
 
 - [x] [Data Analysis with Python](https://c11n.clarusway.com/en/verify/08164565829810?ref=email)
-
+- [x] [IBM - Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/verify/G8B82P7V9SAR?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 - [x] [Python Core](https://www.sololearn.com/Certificate/CT-4ILGP3OZ/pdf)
 
 # $\textcolor{orange}{\text{Data Visualization Modules}}$
